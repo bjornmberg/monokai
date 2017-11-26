@@ -1,7 +1,7 @@
 {
   "name": "Monokai-black",
   "theme": "syntax",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "private": true,
   "description": "A Monokai syntax theme with pure black background for Atom",
   "repository": "https://github.com/bjornmberg/monokai-black",
