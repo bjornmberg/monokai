@@ -1,10 +1,10 @@
 {
-  "name": "monokai",
+  "name": "Monokai-black",
   "theme": "syntax",
-  "version": "0.24.0",
+  "version": "0.1.0",
   "private": true,
-  "description": "A monokai theme",
-  "repository": "https://github.com/kevinsawicki/monokai",
+  "description": "A Monokai syntax theme with pure black background for Atom",
+  "repository": "https://github.com/bjornmberg/monokai-black",
   "license": "MIT",
   "engines": {
     "atom": ">=1.13.0"

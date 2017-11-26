@@ -1,7 +1,8 @@
-# Monokai theme
+# Monokai-black theme
 
-A monokai syntax theme for Atom.
+A Monokai syntax theme with pure black background for Atom.
 
+Forked from [kevinsawicki/monokai](https://atom.io/themes/monokai).
 Originally converted from the [TextMate](http://www.monokai.nl/blog/wp-content/asdev/Monokai.tmTheme)
 theme using the [TextMate bundle converter](http://flight-manual.atom.io/hacking-atom/sections/converting-from-textmate/).
 
